@@ -51,3 +51,9 @@ streamlit run app.py
 ```
 
 L'application s'ouvrira automatiquement dans ton navigateur à l'adresse http://localhost:8501
+
+Ou alors visiter ce site : 
+
+https://pokemon-albertschool.streamlit.app/
+
+Si le deploiement ne marche pas, allez en local
